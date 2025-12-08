@@ -1,3 +1,8 @@
+//Feito por Heitor Gabriel e Victória Oliveira
+//Cria uma árvore com 1 processo pai, 2 processos filhos F1 (com processos netos N1 e N2) e F2 (com processos netos N3 e N4)
+//Cada folha vai executar uma operação diferente
+//Nós filhos e nó pai vão informar o seu PID
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
